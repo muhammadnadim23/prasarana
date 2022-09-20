@@ -1,0 +1,48 @@
+.rec {
+    position: absolute;
+    width: 270px;
+    height: 1030px;
+    left: 0px;
+    top: 0px;
+    background: #D4D4D5;
+}
+.rec2 {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    background: #9097A7;
+}
+.rec2 h3{
+    position: absolute;
+    width: 228.9px;
+    height: 27.16px;
+    left: 70px;
+    top: 14.08px;
+    font-size: 25px;
+    line-height: 30px;
+    margin: 0px;
+}
+.rec2 img {
+    width: 45px;
+    margin: 5px;
+    height: 45px;
+}
+.rec2 p {
+   margin: 10px;
+   font-size: 19px;
+  
+}
+.content {
+    position: absolute;
+    width: 638px;
+    height: 70px;
+    left: 477px;
+    top: 20px;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+      
+
