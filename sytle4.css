@@ -5,6 +5,7 @@
     left: 0px;
     top: 0px;
     background: #D4D4D5;
+
 }
 .rec2 {
     position: absolute;
@@ -45,13 +46,10 @@ p {
     line-height: 50px;
 }
 .php{
-    position: absolute;
-    margin-left: 500px;
+    position: relative;
+    left: 600px;
     top: 200px;
 }
 a{
     color: aquamarine;
 }
-
-      
-

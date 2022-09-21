@@ -45,13 +45,8 @@ p {
     line-height: 50px;
 }
 .php{
-    position: absolute;
-    margin-left: 500px;
+    position: relative;
+    left: 600px;
     top: 200px;
 }
-a{
-    color: aquamarine;
-}
-
-      
-
+   
